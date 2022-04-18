@@ -215,7 +215,7 @@ ext {
 //region Подключение модулей и библиотек
 dependencies {
     // Подключение модулей
-    implementation project(':core')
+
 
     // Подключение библиотек
     //AndroidX
