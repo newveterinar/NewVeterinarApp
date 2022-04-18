@@ -1,6 +1,11 @@
 plugins {
+    // Плагин необходим для идентификации данного приложения
     id 'com.android.application'
     id 'org.jetbrains.kotlin.android'
+    // Подключение плагина для работы с аннотациями (нужно для Room)
+    id 'kotlin-kapt'
+    // Подключение плагина для удобной парселизации
+    id 'kotlin-android-extensions'
 }
 
 android {
@@ -218,7 +223,7 @@ ext {
 //region Подключение модулей и библиотек
 dependencies {
     // Подключение модулей
-    implementation project(':core')
+    implementation project(':screens')
 
     // Подключение библиотек
     //AndroidX

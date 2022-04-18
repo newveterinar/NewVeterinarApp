@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 rootProject.name = "NewVeterinarApp"
 include ':app'
 include ':core'
+include ':screens'
