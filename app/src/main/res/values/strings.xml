@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">VetFormula</string>
+
+    <string name="pharmacy_button">Pharmacy</string>
+    <string name="surface_area">Surface AREA</string>
+    <string name="aboutapp">aboutApp</string>
 </resources>
