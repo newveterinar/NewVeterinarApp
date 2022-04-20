@@ -1,1 +1,2 @@
-20.04.2022 Создана ветка "feature_screenNavigator"
+﻿20.04.2022 Создана ветка "feature_screenNavigator"
+20.04.2022 Создана ветка "avkhakhalin"
