@@ -274,8 +274,8 @@ dependencies {
     implementation libs.moxy.compiler
     implementation libs.moxy.ktx
     implementation libs.moxy.androidx */
-/*    // Cicerony
-    implementation libs.cicerony.runtime */
+    // Cicerony
+    implementation libs.cicerony.runtime
     // RxJava
 /*    implementation libs.rxJava.android
     implementation libs.rxJava.reactive */
