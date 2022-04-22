@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Android/Projects/ComandWork/NewVeterinarApp/app/src/main/res/layout/activity_main.xml" value="0.1787037037037037" />
+        <entry key="..\:/Android/Projects/ComandWork/NewVeterinarApp/app/src/main/res/layout/activity_main.xml" value="0.23294118300441247" />
+        <entry key="..\:/Android/Projects/ComandWork/NewVeterinarApp/screens/src/main/res/layout/fragment_first.xml" value="0.303125" />
+        <entry key="..\:/Android/Projects/ComandWork/NewVeterinarApp/screens/src/main/res/layout/fragment_second.xml" value="0.23294118300441247" />
+        <entry key="..\:/Android/Projects/ComandWork/NewVeterinarApp/screens/src/main/res/layout/fragment_third.xml" value="0.17916666666666667" />
       </map>
     </option>
   </component>

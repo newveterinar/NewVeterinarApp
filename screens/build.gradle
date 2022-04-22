@@ -262,13 +262,13 @@ dependencies {
     // RecyclerView
     debugImplementation libs.tests.recyclerView
     // Lifecycle
-/*    implementation libs.lifecycle.extensions */
+    implementation libs.lifecycle.extensions
     // LiveData
-/*    implementation libs.lifecycle.ktx */
+    implementation libs.lifecycle.ktx
     // Lifecycles only (without ViewModel or LiveData)
-/*    implementation libs.lifecycle.runtimektx
+    implementation libs.lifecycle.runtimektx
     implementation libs.lifecycle.process
-    implementation libs.lifecycle.java8 */
+    implementation libs.lifecycle.java8
 /*    // Moxy
     implementation libs.moxy.community
     implementation libs.moxy.compiler
@@ -309,7 +309,7 @@ dependencies {
     implementation libs.dagger.addsupport */
     // Koin
     //Koin core features
-/*    implementation libs.koin.core
+    implementation libs.koin.core
     //Koin main features for Android (Scope,ViewModel ...)
     implementation libs.koin.android
     //Koin Java Compatibility
@@ -318,6 +318,6 @@ dependencies {
     implementation libs.koin.retrofitcoroutines
     // Koin for Tests
     testImplementation libs.koin.testsandroidx
-    testImplementation libs.koin.testsio */
+    testImplementation libs.koin.testsio
 }
 //endregion

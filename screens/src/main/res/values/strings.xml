@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="first_fragment_text_view_text">Первый экран</string>
+    <string name="second_fragment_text_view_text">Второй экрна</string>
+    <string name="third_fragment_text_view_text">Третий экран</string>
+    <string name="first_fragment_goto_main_acitivy_button_text">Перейти на 0 экран</string>
+    <string name="first_fragment_goto_second_fragment_button_text">Перейти на 2 экран</string>
+    <string name="second_fragment_goto_third_fragment_button_text">Перейти на 3 экран</string>
+    <string name="second_fragment_goto_first_fragment_button_text">Перейти на 1 экран</string>
+    <string name="third_fragment_goto_second_fragment_button_text">Перейти на 2 экран</string>
+</resources>
